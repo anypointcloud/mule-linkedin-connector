@@ -3,6 +3,11 @@
 
 Enables integration with [LinkedIn](https://www.linkedin.com/) using the [Echobox LinkedIn SDK](https://github.com/ebx/ebx-linkedin-sdk).
 
+## WARNING
+### THIS CONNECTOR IS INCOMPLETE DO NOT USE IT YET
+We would love to have your help building it
+
+## Installation
 Add this dependency to your application pom.xml
 
 ```
