@@ -1,0 +1,11 @@
+<mule xmlns="http://www.mulesoft.org/schema/mule/core"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:linkedin="http://www.mulesoft.org/schema/mule/linkedin"
+      xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd
+          http://www.mulesoft.org/schema/mule/linkedin http://www.mulesoft.org/schema/mule/mule-linkedin/current/linkedin.xsd">
+
+    <linkedin:config name="example">
+        <linkedin:connection  />
+    </linkedin:config>
+
+</mule>
